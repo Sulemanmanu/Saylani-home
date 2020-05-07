@@ -1,0 +1,140 @@
+.header {
+    background-color: blueviolet;
+    padding-right: 20px;
+}
+
+.p1 {
+    display: inline-block;
+    padding-left: 190px;
+    padding-right: 30px;
+    color: cyan;
+}
+
+.b1 {
+    display: inline-block;
+    padding-right: 10px;
+    padding-left: 70px;
+    border: rgb(0, 10, 10);
+}
+
+.imagetop {
+    padding-left: 120px;
+    padding: 5px;
+    width: 20px;
+    padding-top: 10px;
+}
+
+
+/* home about dcjdo */
+
+.p2 {
+    display: inline-block;
+    padding-bottom: 30px;
+    padding-top: 90px;
+}
+
+.h {
+    text-align: center;
+    padding-bottom: 1px;
+    color: blue;
+}
+
+.h2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40px;
+    padding-bottom: 10px;
+}
+
+.h3 {
+    text-align: justify;
+    margin-left: 120px;
+    margin-right: 120px;
+    font-size: large;
+    padding: 20px;
+}
+
+
+/*below intro//////////////////////////////////////////*/
+
+.detail {
+    background-color: blueviolet;
+    padding: 110px;
+}
+
+.az {
+    width: 40px;
+}
+
+.p4 {
+    display: inline-block;
+}
+
+
+/* what we are doing////////////////// */
+
+.p7 {
+    text-align: center;
+}
+
+.img4 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40px;
+}
+
+.data {
+    border: 10px solid;
+    color: rgb(70, 70, 226);
+    font-size: large;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.asd {
+    display: block;
+    width: 90px;
+    color: yellowgreen;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 70px 140px 70px 140px;
+    border-collapse: collapse;
+}
+
+
+/* galleryyyyyyyyyyyyyyyyyyyyy */
+
+.gallery {
+    text-align: center;
+    color: blue;
+}
+
+
+/* foooooooooooottttttttttttttt */
+
+.pic {
+    width: 20px;
+    color: tomato;
+    background-color: tomato;
+}
+
+.abc {
+    display: inline-block;
+}
+
+.imgr {
+    width: 40px;
+    background-color: tomato;
+    border-radius: 40px;
+}
+
+.footer {
+    margin-top: 60px;
+    background-color: crimson;
+}
+
+.foot {
+    background-color: cornflowerblue;
+}
